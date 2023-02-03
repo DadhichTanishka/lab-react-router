@@ -1,0 +1,11 @@
+nav{
+  display: flex;
+  justify-content: space-around;
+  background-color: aliceblue;
+}
+.center{
+  display: flex;
+    justify-content: center;
+    margin-top: 25vh;
+    font-size: xx-large;
+}
